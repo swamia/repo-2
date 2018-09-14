@@ -1,0 +1,6 @@
+projectKey=swami:avvaru
+serverUrl=http://localhost:9000
+serverVersion=7.3.0.15553
+dashboardUrl=http://localhost:9000/dashboard?id=swami%3Aavvaru
+ceTaskId=AWXH-G_cyNgZQ5eG0CF8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWXH-G_cyNgZQ5eG0CF8
